@@ -1,0 +1,17 @@
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/bin/Debug/tableView.Droid.dll.mdb
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/bin/Debug/tableView.Droid.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/bin/Debug/com.tableview.tableview.apk
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/android/bin/com.tableview.tableview.apk
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/layout/main.xml
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/values/strings.xml
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/R.cs.flag
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/bin/Debug/com.tableview.tableview-Signed.apk
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/uploadflags.txt
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/tableView.Droid.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/tableView.Droid.dll.mdb

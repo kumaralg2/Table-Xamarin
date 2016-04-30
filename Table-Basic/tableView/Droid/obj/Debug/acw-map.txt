@@ -1,0 +1,4 @@
+tableView.Droid.MainActivity, tableView.Droid;md526965007ae63419913e6743ec3eeb90c.MainActivity
+tableView.Droid.MainActivity, tableView.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md526965007ae63419913e6743ec3eeb90c.MainActivity
+tableView.Droid.MainActivity;md526965007ae63419913e6743ec3eeb90c.MainActivity
+tableview.droid.MainActivity;md526965007ae63419913e6743ec3eeb90c.MainActivity

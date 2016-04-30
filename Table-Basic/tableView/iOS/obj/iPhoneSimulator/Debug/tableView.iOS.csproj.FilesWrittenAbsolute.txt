@@ -1,0 +1,16 @@
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/bin/iPhoneSimulator/Debug/tableView.iOS.exe.mdb
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/bin/iPhoneSimulator/Debug/tableView.iOS.exe
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/tableView.iOS.exe
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/iOS/obj/iPhoneSimulator/Debug/tableView.iOS.exe.mdb

@@ -1,0 +1,8 @@
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/tableView.Droid.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/System.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/System.Xml.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/Mono.Android.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/System.Core.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/mscorlib.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/Administrator/Documents/Xamarin Stuff/My-Work/TableView/Simple-Tableview/tableView/Droid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
