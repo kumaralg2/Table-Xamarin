@@ -1,1 +1,40 @@
-﻿<Properties StartupItem="iOS/tableView-Index.iOS.csproj" />
+﻿<Properties StartupItem="iOS/tableView-Index.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/TableSource.cs">
+    <Files>
+      <File FileName="iOS/TableSource.cs" Line="50" Column="3" />
+      <File FileName="iOS/ViewController.cs" Line="35" Column="1" />
+      <File FileName="tableView-Index/MyClass.cs" Line="9" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tableView-Index" expanded="True">
+            <Node name="tableView-Index" expanded="True" />
+            <Node name="tableView-Index.iOS" expanded="True">
+              <Node name="TableSource.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>t [0].ToString ()</Value>
+          <Value>[t [0].ToString ()].Add (t)</Value>
+          <Value>indexedTableItems [t [0].ToString ()].Add (t);</Value>
+          <Value>keys</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Administrator/Table-Xamarin/tableView-Index/iOS/ViewController.cs" line="21" column="1" />
+      <Breakpoint file="/Users/Administrator/Table-Xamarin/tableView-Index/iOS/ViewController.cs" line="34" column="1" />
+      <Breakpoint file="/Users/Administrator/Table-Xamarin/tableView-Index/iOS/ViewController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/Administrator/Table-Xamarin/tableView-Index/iOS/ViewController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/Administrator/Table-Xamarin/tableView-Index/iOS/ViewController.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
